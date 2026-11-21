@@ -21,7 +21,7 @@ Link: https://code.visualstudio.com/thank-you?dv=win&build=stable
  
 == Modelo usado: qwen3.5:8b:
  
-R7 ???? 2Gb --- Tempo: ≈
+R7 200s 2Gb --- Tempo: ≈
  
 RX 570 8Gb --- Tempo: ≈2:32m/q
  
